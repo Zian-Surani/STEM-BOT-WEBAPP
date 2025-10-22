@@ -116,5 +116,5 @@ MIT License
 ## Contact
 Project author: **Zian Surani**  
 GitHub: [Zian‑Surani](https://github.com/Zian‑Surani)  
-Email: *your email here*  
+Email: *zian.surani@gmail.com*  
 Project repository: https://github.com/Zian‑Surani/STEM‑BOT‑WEBAPP
